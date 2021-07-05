@@ -4,4 +4,4 @@
 
 # How to run it
 > Make sure node is installed locally
-> run: node script.js 
+> run: -node script.js-
